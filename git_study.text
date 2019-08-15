@@ -2,3 +2,4 @@ git init
 git add
 git commit
 git checkout -b dev
+git feature1
