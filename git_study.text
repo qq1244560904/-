@@ -3,3 +3,8 @@ git add
 git commit
 git checkout -b dev
 git feature1
+git checkout -- file
+git reset HEAD file/id
+git branch -b dev
+git branch -d dev
+git merge dev
