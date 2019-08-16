@@ -11,3 +11,5 @@ git merge dev
 git checkout -b dev
 git log --graph
 git stash pop
+git stash
+git stash list
