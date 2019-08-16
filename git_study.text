@@ -10,3 +10,4 @@ git branch -d dev
 git merge dev
 git checkout -b dev
 git log --graph
+git stash pop
