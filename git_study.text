@@ -8,3 +8,4 @@ git reset HEAD file/id
 git branch -b dev
 git branch -d dev
 git merge dev
+git checkout -b dev
