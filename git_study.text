@@ -1,6 +1,6 @@
 git init 
 git add
-git commit
+git commit11
 git checkout -b dev
 git feature1
 git checkout -- file
@@ -12,3 +12,4 @@ git checkout -b dev
 git log --graph
 git stash
 git stash list
+
