@@ -13,3 +13,4 @@ git log --graph
 git stash pop
 git stash
 git stash list
+git tag
